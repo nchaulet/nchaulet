@@ -4,8 +4,7 @@ I am Nicolas a full stack engineer. I’m currently working on [Fleet](https://w
 
 #### You can find me on 
 
-[![linkedin](https://raw.githubusercontent.com/nchaulet/nchaulet/master/icon-pencil-fill.svg)](https://www.nchaulet.fr/)
-[![twitter](https://raw.githubusercontent.com/nchaulet/nchaulet/master/icon-twitter-fill.svg)](https://twitter.com/n_chaulet)
+[![blog](https://raw.githubusercontent.com/nchaulet/nchaulet/master/icon-pencil-fill.svg)](https://www.nchaulet.fr/)
 [![linkedin](https://raw.githubusercontent.com/nchaulet/nchaulet/master/icon-linkedin-fill.svg)](https://www.linkedin.com/in/nchaulet/)
 
 
